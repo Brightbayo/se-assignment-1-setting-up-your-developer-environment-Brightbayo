@@ -44,6 +44,16 @@ This assignment aims to familiarize you with the tools and configurations necess
 #Submission:
 Submit your document and GitHub repository link through the designated platform or email to the instructor by the specified deadline.
 
+SECOND ASSIGNMENT
+
+
+Link For Assignment Two Google Doc.
+https://docs.google.com/document/d/1kuAvmO6w99gZJg83X9z_zFhnjNWtNXwAObnkKSaJNY4/edit?usp=drivesdk
+
+
+
+
+
 #Evaluation Criteria:**
 - Completeness and accuracy of setup documentation.
 - Effectiveness of version control implementation.
